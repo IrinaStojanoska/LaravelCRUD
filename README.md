@@ -7,20 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Getting started
+# Getting started
 
-# Install Laravel 
+## Install Laravel 
 
 composer global require laravel/installer
 
 
-# Create new project
+## Create new project
 
 laravel new projectname
 
 
-# Local Development Server
+## Local Development Server
 
 php artisan serve
+
+
+## To Do
+- user registration
+- define roles
+- authentication & autorization
+
 
 
