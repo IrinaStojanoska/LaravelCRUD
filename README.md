@@ -9,13 +9,16 @@
 
 ## Getting started
 
-#Install Laravel 
+##Install Laravel 
+
 composer global require laravel/installer
 
-#Create new project
+##Create new project
+
 laravel new projectname
 
-#Local Development Server
+##Local Development Server
+
 php artisan serve
 
 
